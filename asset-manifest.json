@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ws101-nocum-navbar/static/css/main.e29317e5.css",
-    "main.js": "/ws101-nocum-navbar/static/js/main.cb22e5cc.js",
+    "main.js": "/ws101-nocum-navbar/static/js/main.e689f258.js",
     "static/media/vid.mp4": "/ws101-nocum-navbar/static/media/vid.8e7c93a91ab3b8503201.mp4",
     "static/media/lambo.png": "/ws101-nocum-navbar/static/media/lambo.ca1562f6e4ee032df53a.png",
     "static/media/Render1.png": "/ws101-nocum-navbar/static/media/Render1.b33f6628fc7b2f7ed8ad.png",
     "index.html": "/ws101-nocum-navbar/index.html",
     "main.e29317e5.css.map": "/ws101-nocum-navbar/static/css/main.e29317e5.css.map",
-    "main.cb22e5cc.js.map": "/ws101-nocum-navbar/static/js/main.cb22e5cc.js.map"
+    "main.e689f258.js.map": "/ws101-nocum-navbar/static/js/main.e689f258.js.map"
   },
   "entrypoints": [
     "static/css/main.e29317e5.css",
-    "static/js/main.cb22e5cc.js"
+    "static/js/main.e689f258.js"
   ]
 }
